@@ -62,7 +62,7 @@ Python
 Git
 
 # How to Setup:
-Download zip from https://github.com/stupidsomeguy1/CoolLogger/releases/tag/v1.1.2
+Download zip from https://github.com/stupidsomeguy1/CoolLogger/releases/tag/v.1.1.4
 
 Extract zip
 Run install_python.bat if you don't have python installed
